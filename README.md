@@ -1,6 +1,10 @@
 # otus_ios_course_hw3
 3 Homework for Otus iOS Course 2.0
 
+Модуляризированный каркас приложения с несколькими API, UIWindow и анимацией
+
+<b>Цель:</b> Прокачать умение делать архитектурный рефакторинг всего приложения.
+
 1. Подключить API Github и API NewsAPI(или Rick And Morty)
 2. Кодогенерацию подключить как модули
 3. Cделать Segmented Control (в SwiftUI Picker) и три View
